@@ -70,7 +70,9 @@ print(solution)
 ```
 
 ## Output:
-![lu decomposition]()
+![lu1](https://user-images.githubusercontent.com/120539398/214765331-1f3f3deb-ab32-497c-bb67-8ed1f4db6e54.png)
+![lu2](https://user-images.githubusercontent.com/120539398/214765347-922024af-ad4f-45ec-ab5a-5b464a149b39.png)
+
 
 
 ## Result:
