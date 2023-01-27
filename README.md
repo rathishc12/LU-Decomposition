@@ -71,10 +71,10 @@ print(solution)
 ```
 
 ## Output:
-![lu1](https://user-images.githubusercontent.com/120539398/214765331-1f3f3deb-ab32-497c-bb67-8ed1f4db6e54.png)
-![lu2](https://user-images.githubusercontent.com/120539398/214765347-922024af-ad4f-45ec-ab5a-5b464a149b39.png)
 
+![lu](https://user-images.githubusercontent.com/120539398/215090757-28dc49e6-d931-46ab-8500-e5adfaf34e4d.png)
 
+![lu2](https://user-images.githubusercontent.com/120539398/215090835-fe5b28bd-e012-45b4-8d87-b3e7035086bb.png)
 
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
