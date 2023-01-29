@@ -49,7 +49,8 @@ print(solution)
 
 ## Output:
 ![lu find](https://user-images.githubusercontent.com/120539398/215315710-5a2982ec-d657-49a1-a27f-b44190179bb4.png)
-![lu](https://user-images.githubusercontent.com/120539398/215315721-bd55c283-97d5-407f-88c3-497e4ed2283a.png)
+![lu2](https://user-images.githubusercontent.com/120539398/215315751-d1b1c5dd-4d20-457f-aad8-b3836f5a85c0.png)
+
 
 
 
