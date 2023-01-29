@@ -30,19 +30,6 @@ print(L)
 print(U)
 ```
 /*
-
-Program to find the L and U matrix.
-Developed by: Rathish kumar C
-RegisterNumber: 22009283
-*/
-```
-import numpy as np
-from scipy.linalg import lu
-arr=eval(input())
-A=np.array(arr)
-P,L,U=lu(A)
-print(L)
-print(U))
 (ii) To find the LU Decomposition of a matrix
 ```
 Developed by: Rathish kumar C
@@ -55,24 +42,15 @@ B=eval(input())
 res=lu_factor(A)
 solution=lu_solve(res,B)
 print(solution)
-/*
-Program to find the LU Decomposition of a matrix.
-Developed by: Rathish kuamr C
-RegisterNumber: 22009283
-import numpy as np
-from scipy.linalg import lu_factor,lu_solve
-A=np.array(eval(input()))
-B=eval(input())
-res=lu_factor(A)
-solution=lu_solve(res,B)
-print(solution)
-
-*/
 ```
+/*
+
+
 
 ## Output:
+![lu find](https://user-images.githubusercontent.com/120539398/215315710-5a2982ec-d657-49a1-a27f-b44190179bb4.png)
+![lu](https://user-images.githubusercontent.com/120539398/215315721-bd55c283-97d5-407f-88c3-497e4ed2283a.png)
 
-![lu](https://user-images.githubusercontent.com/120539398/215090757-28dc49e6-d931-46ab-8500-e5adfaf34e4d.png)
 
 
 ## Result:
